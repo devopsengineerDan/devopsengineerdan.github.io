@@ -1,6 +1,9 @@
 # devopsengineerdan.github.io
 Professional portfolio for Engineer Dancun.
 
+ # COMPUTER SCIENCE[MEMORY MANAGEMENT]
+ 🚀 9. B. Red Team Scripts process injection-stack overflow-heap overflow.zip
+
 ## License
 This software is released under the MIT license.
 
