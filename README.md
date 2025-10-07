@@ -4,6 +4,11 @@ Professional portfolio for Engineer Dancun.
  # COMPUTER SCIENCE[MEMORY MANAGEMENT]
  🚀 9. B. Red Team Scripts process injection-stack overflow-heap overflow.zip
 
+ OR
+
+ engineer-dancun-personal-blog/content/posts/KERNEL-Files.md
+
+
 ## License
 This software is released under the MIT license.
 
