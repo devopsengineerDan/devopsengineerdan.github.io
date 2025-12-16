@@ -1,6 +1,9 @@
 # devopsengineerdan.github.io
 Professional portfolio for Engineer Dancun.
 
+# Repository purpose
+- Educational purpose
+
 # CODE -> COMPUTER SCIENCE[MEMORY MANAGEMENT]
  🚀 9. B. Red Team Scripts.zip
 
