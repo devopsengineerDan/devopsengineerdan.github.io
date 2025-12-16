@@ -1,8 +1,8 @@
 ### devopsengineerdan.github.io
-Professional portfolio for Engineer Dancun.
+- Professional portfolio for Engineer Dancun.
 
 ### Repository purpose
-- Educational purpose
+- Educational purpose.
 
 # CODE -> COMPUTER SCIENCE[MEMORY MANAGEMENT]
  🚀 9. B. Red Team Scripts.zip
@@ -19,7 +19,7 @@ Professional portfolio for Engineer Dancun.
  7. KERNEL-signreturn-oriented-programming.md 🚀 Binary Exploitation attack
 
 ### License
-This software is released under the MIT license.
+- This software is released under the MIT license.
 
 <!-- 
 Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
