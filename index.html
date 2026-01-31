@@ -77,7 +77,23 @@ crossorigin="anonymous"></script>
         src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
 </script>
 
-
+<style>
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+* { box-sizing: border-box; } 
+body{ background: #FFF url('https://subtlepatterns.com/patterns/geometry.png') repeat; font-family: 'Montserrat', sans-serif; font-weight: 400; }
+form:before { content: ""; background: rgba(255, 255, 0, 0.8); display: block; width: 400px; height: 2000px; position: absolute; z-index: -1; transform: rotate(45deg); -ms-transform: rotate(45deg); -webkit-transform: rotate(45deg); top: -500px; left: -60px;}
+form { position: relative; margin: 50px auto 0; width: 600px; padding: 50px; }
+label[for="email"] { display: block; padding: 20px 0; font-size: 36px; font-weight: 700; letter-spacing: 10px; text-transform: uppercase; border-top: 5px solid #000; border-bottom: 5px solid #000; margin-bottom: 20px; width: 30%; -webkit-transition: all 200ms ease; -moz-transition: all 200ms ease; -ms-transition: all 200ms ease; -o-transition: all 200ms ease; transition: all 200ms ease; }
+label[for="email"]:hover { width: 40%; -webkit-transition: all 200ms ease; -moz-transition: all 200ms ease; -ms-transition: all 200ms ease;
+-o-transition: all 200ms ease; transition: all 200ms ease; }
+input:focus { outline: 0; }
+input[type="email"] { background: #FFF; border: 0; width: 320px; padding: 30px; font-size: 14px; font-weight: 400; letter-spacing: 2px; text-transform: uppercase; float: left; }
+input[type="submit"] { color: #FFF; background: linear-gradient(to right, #000 50%, #0000FF 50%);
+background-size: 200% 100%; background-position:left bottom; border: 0; width: 180px; padding: 30px; font-size: 14px; font-weight: 400; letter-spacing: 2px; text-transform: uppercase; -webkit-transition: all 200ms ease; -moz-transition: all 200ms ease; -ms-transition: all 200ms ease; -o-transition: all 200ms ease; transition: all 200ms ease; cursor: pointer;}
+input[type="submit"]:hover { background: linear-gradient(to right, #000 50%, #0000FF 50%);
+background-size: 200% 100%; background-position:right bottom; -webkit-transition: all 200ms ease; -moz-transition: all 200ms ease; -ms-transition: all 200ms ease;
+-o-transition: all 200ms ease; transition: all 200ms ease; }
+</style>
     
   </head>
   <body>
@@ -461,10 +477,18 @@ crossorigin="anonymous"></script>
 -->	
 
 
-	      
+	    <h1>Stay updated</h1>  
         <br>
+          <h5 class="title is-small">Get insights on cybersecurity and software engineering best practices delivered to your inbox.</h5>
+		 <br><br> 
+<form>
+  <label for="email">Subscribe to my mailing list</label>
+  <input type="email" value="" name="email" placeholder="email address" required>
+  <input type="submit" value="Subscribe" name="subscribe">
+</form>
 
-
+		  
+<!--
         <div>
           <h5 class="title is-small">Share to social media</h5>
           <div>
@@ -504,7 +528,8 @@ crossorigin="anonymous"></script>
           })();
       </script>
       <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-      
+ -->
+		  
       <br><br><br>
 
 	    <footer>
