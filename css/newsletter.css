@@ -7,9 +7,9 @@ label[for="email"] { display: block; padding: 20px 0; font-size: 36px; font-weig
 label[for="email"]:hover { width: 40%; -webkit-transition: all 200ms ease; -moz-transition: all 200ms ease; -ms-transition: all 200ms ease;
 -o-transition: all 200ms ease; transition: all 200ms ease; }
 input:focus { outline: 0; }
-input[type="email"] { background: #FFF; border: 0; width: 320px; padding: 30px; font-size: 14px; font-weight: 400; letter-spacing: 2px; text-transform: uppercase; float: left; }
+input[type="email"] { background: #FFF; border: 0; width: 320px; padding: 30px; font-size: 14px; font-weight: 400; letter-spacing: 2px; text-transform: lowercase; float: left; }
 input[type="submit"] { color: #FFF; background: linear-gradient(to right, #000 50%, #0000FF 50%);
-background-size: 200% 100%; background-position:left bottom; border: 0; width: 180px; padding: 30px; font-size: 14px; font-weight: 400; letter-spacing: 2px; text-transform: uppercase; -webkit-transition: all 200ms ease; -moz-transition: all 200ms ease; -ms-transition: all 200ms ease; -o-transition: all 200ms ease; transition: all 200ms ease; cursor: pointer;}
+background-size: 200% 100%; background-position:left bottom; border: 0; width: 180px; padding: 30px; font-size: 14px; font-weight: 400; letter-spacing: 2px; text-transform: lowercase; -webkit-transition: all 200ms ease; -moz-transition: all 200ms ease; -ms-transition: all 200ms ease; -o-transition: all 200ms ease; transition: all 200ms ease; cursor: pointer;}
 input[type="submit"]:hover { background: linear-gradient(to right, #000 50%, #0000FF 50%);
 background-size: 200% 100%; background-position:right bottom; -webkit-transition: all 200ms ease; -moz-transition: all 200ms ease; -ms-transition: all 200ms ease;
 -o-transition: all 200ms ease; transition: all 200ms ease; }
