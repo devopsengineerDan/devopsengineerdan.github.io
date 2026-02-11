@@ -205,6 +205,14 @@ xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://devopsengineerdan.github.io/about/</loc>
   </url>
+
+    <url>
+    <loc>https://devopsengineerdan.github.io/disclaimer/</loc>
+  </url>
+
+    <url>
+    <loc>https://devopsengineerdan.github.io/privacy_policy/</loc>
+  </url>
   
   <url>
     <loc>https://devopsengineerdan.github.io/categories/</loc>
